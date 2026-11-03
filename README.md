@@ -8,6 +8,8 @@ Multi-page dashboard hosted on AWS EC2 using Nginx
 
 ![Report-Dashboard Page](screenshots/Report-dashboard.png)
 
+![User-dashboard Page](screenshots/User-dashboard.png)
+
 ## Features
 - Sidebar navigation (Dashboard, Users, Reports, Settings)
 - Stat cards and tabbed content
