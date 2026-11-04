@@ -34,8 +34,8 @@ Multi-page dashboard hosted on AWS EC2 using Nginx
 6. Open http://<your-public-ip> in the browser
 
 ## What I Learned
-- How EC2, security groups, and key pairs work together
-- How Nginx serves static files
+- How EC2, security groups, and key pairs work together.
+- How Nginx serves static files.
   
 
 ## Future Improvements
